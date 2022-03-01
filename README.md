@@ -1,2 +1,2 @@
 # FishResp-GUI
-Graphical User Interface for the R package 'FishResp' written in Java [FishResp project]
+Graphical implementation of the R package 'FishResp' written in Java [FishResp project]
