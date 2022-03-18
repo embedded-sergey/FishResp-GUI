@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Name=FishResp
+Icon=/usr/lib/FishResp/icon.svg
+Exec=bash -c "export R_HOME=\"/usr/lib/R\" && cd /usr/lib/FishResp && java -jar fishrespbase.jar" </dev/null &>/dev/null & 

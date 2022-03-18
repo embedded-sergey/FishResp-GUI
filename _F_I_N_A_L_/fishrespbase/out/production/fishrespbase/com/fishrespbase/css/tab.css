@@ -1,0 +1,86 @@
+@font-face {
+    -fx-font-family: 'Segoe UI';
+    src: url('../font/segoeui.ttf');
+}
+
+@font-face {
+    -fx-font-family: 'Segoe UI';
+    src: url('../font/segoeuib.ttf');
+}
+
+.root{
+    -fx-font-family: "Segoe UI";
+    -fx-font-size: 12px;
+}
+
+.tab .tab-label {
+    -fx-padding: 0 20 0 20;
+    -fx-font-weight: bold;
+    -fx-font-size: 14;
+//-fx-text-fill: #A5A5A5;
+//-fx-text-fill: black;
+}
+
+.tab:selected .tab-label {
+// -fx-text-fill: black;
+}
+
+.tab {
+    -fx-pref-height: 30;
+    -fx-border-radius: 2, 2;
+    -fx-border-color: #A5A5A5;
+    -fx-border-width: 0;
+    -fx-focus-color: transparent;
+
+}
+
+.tab:selected .tab-label {
+    -fx-font-weight: bold;
+}
+
+.tab:selected  {
+    -fx-pref-height: 32;
+    -fx-background-color: #039ED3, -fx-inner-border, -fx-body-color, -fx-faint-focus-color, -fx-body-color;
+    -fx-background-insets: -0.2, 1.2, 2, -1.4, 2.6;
+    -fx-background-radius: 3, 2, 1, 4, 1;
+}
+
+.tabGray {
+    -fx-base: #ECECEC;
+}
+
+.tabGray .tab-label {
+    -fx-text-fill: #A5A5A5;
+    -fx-font-weight: bold;
+}
+
+.tabYellow {
+    -fx-base: #FFFF80;
+}
+
+.tabYellow .tab-label {
+    -fx-text-fill: black;
+    -fx-font-weight: bold;
+}
+
+.tabGreen {
+    -fx-base: #85FF85;
+}
+
+/* .tab-pane .tab-header-background{
+  */
+.tab-pane > .tab-header-area > .tab-header-background {
+    -fx-background-color:
+            -fx-outer-border,
+            -fx-text-box-border,
+            #ececec;
+    /*    -fx-effect: innershadow(two-pass-box , rgba(0,0,0,0.6) , 4, 0.0 , 0 , 0);
+*/
+}
+
+.my-list-cell > .list-cell {
+    -fx-font-size: 1em;
+    -fx-padding: 0.08em 0.08em 0.08em 0.5em;
+    -fx-border-insets: 0 0 0 0;
+    -fx-min-height: 1.8em;
+}

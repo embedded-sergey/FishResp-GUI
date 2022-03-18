@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Segoe UI';
+    src: url('../font/segoeui.ttf');
+}
+
+@font-face {
+    font-family: 'Segoe UI Bold';
+    src: url('../font/segoeuib.ttf');
+}
+
+body {
+    font-family: Segoe UI;
+}

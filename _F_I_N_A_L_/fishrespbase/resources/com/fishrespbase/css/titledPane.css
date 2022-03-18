@@ -1,0 +1,7 @@
+.titled-pane {
+    -fx-base: #ECECEC;
+}
+
+.titled-pane:disabled > .title {
+    -fx-opacity: 1;
+}

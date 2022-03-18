@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FishRespBase:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FishRespBase_jar</output-path>
+    <root id="archive" name="FishRespBase.jar">
+      <element id="module-output" name="fishrespbase" />
+      <element id="extracted-dir" path="C:/Program Files/R/R-3.5.1/library/rJava/jri/JRI.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/R/R-3.5.1/library/rJava/jri/JRIEngine.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/R/R-3.5.1/library/rJava/jri/REngine.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

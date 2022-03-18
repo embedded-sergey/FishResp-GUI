@@ -1,0 +1,12 @@
+Graphical implementation of the R package 'FishResp' (version 1.0)
+Copyright (c) 2017-2018 Sergey Morozov
+
+General description: 
+'FishResp' is an analytical tool for calculating metabolic rate of fish and other aquatic organisms measured using a respirometry approach. For more information, please visit https://fishresp.org 
+
+Software requirements: 
+- Java (x64 version = 1.8) 
+- R (version >= 3.4.3) 
+
+Contact information: 
+fishresp@gmail.com

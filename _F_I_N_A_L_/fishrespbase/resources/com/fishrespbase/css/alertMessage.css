@@ -1,0 +1,7 @@
+.alertBG {
+    -fx-background-color: #039ED3,-fx-body-color;
+    -fx-background-insets: -1.4, 0, 1;
+    -fx-background-radius: 1.4, 0, 0;
+    -fx-padding: 1;
+    -fx-opacity: 0.9;
+}
