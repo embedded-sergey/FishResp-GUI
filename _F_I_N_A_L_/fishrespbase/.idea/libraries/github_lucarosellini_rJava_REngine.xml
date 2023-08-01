@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="github.lucarosellini.rJava.REngine" type="repository">
+    <properties maven-id="com.github.lucarosellini.rJava:REngine:0.9-7" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/lucarosellini/rJava/REngine/0.9-7/REngine-0.9-7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

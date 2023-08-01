@@ -2,20 +2,94 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="FishRespBase:jar" />
+      <artifact name="fishrespbase:jar" />
     </artifacts-to-build>
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d383f193-eb51-41e9-ab06-a30161f52111" name="Default" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
+    <list default="true" id="d383f193-eb51-41e9-ab06-a30161f52111" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/FishResp-GUI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/github_lucarosellini_rJava_JRI.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/github_lucarosellini_rJava_JRIEngine.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/github_lucarosellini_rJava_REngine.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/openjfx_javafx_controls.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/openjfx_javafx_fxml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/openjfx_javafx_graphics.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/openjfx_javafx_media.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/openjfx_javafx_web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fishrespbase/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FishRespConfigurator/FishRespConfigurator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../FishRespConfigurator/FishRespConfigurator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FishRespStarter/FishRespStarter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../FishRespStarter/FishRespStarter.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/FishRespBase_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/FishRespBase_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/JRI.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/JRIEngine.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/REngine.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fishrespbase.iml" beforeDir="false" afterPath="$PROJECT_DIR$/fishrespbase.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/FishRespBase_jar/FishRespBase.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/FishRespBase_jar/FishRespBase.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/TextConsole.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/TextConsole.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/components/BaseTab.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/components/BaseTab.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/components/BaseTitledPane.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/components/BaseTitledPane.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/components/ColoredButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/components/ColoredButton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/components/Constants.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/components/Constants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/components/DPIkiller.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/components/DPIkiller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/components/RLogger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/components/RLogger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/components/Saver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/components/Saver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/components/TextInputCheckers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/components/TextInputCheckers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/components/alerts/AlertAccordion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/components/alerts/AlertAccordion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/components/alerts/AlertType.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/components/alerts/AlertType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/components/alerts/SingleAlert$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/components/alerts/SingleAlert$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/components/alerts/SingleAlert.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/components/alerts/SingleAlert.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/components/modalWindows/ModalWindowManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/components/modalWindows/ModalWindowManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/components/modalWindows/windows/CleanWindowQC.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/components/modalWindows/windows/CleanWindowQC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/components/modalWindows/windows/PreSens$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/components/modalWindows/windows/PreSens$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/components/modalWindows/windows/PreSens.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/components/modalWindows/windows/PreSens.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/components/modalWindows/windows/PyroScience$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/components/modalWindows/windows/PyroScience$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/components/modalWindows/windows/PyroScience.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/components/modalWindows/windows/PyroScience.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/components/modalWindows/windows/RMRWindow$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/components/modalWindows/windows/RMRWindow$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/components/modalWindows/windows/RMRWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/components/modalWindows/windows/RMRWindow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/components/modalWindows/windows/RespirometryWindow$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/components/modalWindows/windows/RespirometryWindow$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/components/modalWindows/windows/RespirometryWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/components/modalWindows/windows/RespirometryWindow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/BGR.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/BGR.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/General.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/General.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/Results.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/Results.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/Traits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/Traits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/componets/CleanAllPane.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/componets/CleanAllPane.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/componets/GraphModule$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/componets/GraphModule$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/componets/GraphModule$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/componets/GraphModule$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/componets/GraphModule$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/componets/GraphModule$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/componets/GraphModule$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/componets/GraphModule$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/componets/GraphModule$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/componets/GraphModule$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/componets/GraphModule$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/componets/GraphModule$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/componets/GraphModule$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/componets/GraphModule$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/componets/GraphModule$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/componets/GraphModule$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/componets/GraphModule$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/componets/GraphModule$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/componets/GraphModule.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/componets/GraphModule.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/componets/for_bgr/DataPane.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/componets/for_bgr/DataPane.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/componets/for_general/ExtensionPane.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/componets/for_general/ExtensionPane.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/componets/for_general/GlobalSettingsPane.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/componets/for_general/GlobalSettingsPane.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/componets/for_general/IndividualInfoPane.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/componets/for_general/IndividualInfoPane.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/componets/for_general/InformationModulePane$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/componets/for_general/InformationModulePane$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/componets/for_general/InformationModulePane.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/componets/for_general/InformationModulePane.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/componets/for_results/ExtractSlopesPane.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/componets/for_results/ExtractSlopesPane.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/componets/for_results/QCofSlopesPane.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/componets/for_results/QCofSlopesPane.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/componets/for_results/ResultsOfAnalysisPane.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/componets/for_results/ResultsOfAnalysisPane.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/componets/for_trait/CorrectionPane.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/componets/for_trait/CorrectionPane.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/componets/for_trait/QCTestsPane.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/componets/for_trait/QCTestsPane.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/componets/for_trait/RawDataPane.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/componets/for_trait/RawDataPane.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="RawDataPane.java" pinned="false" current-in-tab="false">
@@ -203,7 +277,7 @@
         </entry>
       </file>
       <file leaf-file-name="File.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Java/jdk1.8.0_65/src.zip!/java/io/File.java">
+        <entry file="jar://$PROJECT_DIR$/../../../../../../Java/jdk1.8.0_65/src.zip!/java/io/File.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="35445">
               <caret line="2140" column="18" lean-forward="false" selection-start-line="2140" selection-start-column="18" selection-end-line="2140" selection-end-column="18" />
@@ -271,7 +345,7 @@
         </entry>
       </file>
       <file leaf-file-name="ComboBoxBase.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Java/jdk1.8.0_65/javafx-src.zip!/javafx/scene/control/ComboBoxBase.java">
+        <entry file="jar://$PROJECT_DIR$/../../../../../../Java/jdk1.8.0_65/javafx-src.zip!/javafx/scene/control/ComboBoxBase.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2023">
               <caret line="150" column="19" lean-forward="false" selection-start-line="150" selection-start-column="19" selection-end-line="150" selection-end-column="19" />
@@ -443,6 +517,14 @@
       <replace>string</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../.." value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="GradleLocalSettings">
     <option name="modificationStamps">
       <map>
@@ -476,8 +558,8 @@
         <option value="$PROJECT_DIR$/src/com/fishrespbase/tabs/BGR.java" />
         <option value="$PROJECT_DIR$/src/com/fishrespbase/tabs/componets/for_general/GlobalSettingsPane.java" />
         <option value="$PROJECT_DIR$/src/com/fishrespbase/tabs/componets/for_trait/QCTestsPane.java" />
-        <option value="C:/Program Files/R/R-3.5.1/library/rJava/jri/JRI.jar!/org/rosuda/JRI/Mutex.class" />
-        <option value="C:/Program Files/R/R-3.5.1/library/rJava/jri/JRI.jar!/org/rosuda/JRI/REXP.class" />
+        <option value="$PROJECT_DIR$/../../../../../../Program Files/R/R-3.5.1/library/rJava/jri/JRI.jar!/org/rosuda/JRI/Mutex.class" />
+        <option value="$PROJECT_DIR$/../../../../../../Program Files/R/R-3.5.1/library/rJava/jri/JRI.jar!/org/rosuda/JRI/REXP.class" />
         <option value="$PROJECT_DIR$/src/com/fishrespbase/Main.java" />
         <option value="$PROJECT_DIR$/R/rm.data.R" />
         <option value="$PROJECT_DIR$/src/com/fishrespbase/components/modalWindows/ModalWindowManager.java" />
@@ -505,12 +587,16 @@
   <component name="MavenProjectNavigator">
     <treeState />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
+  <component name="ProjectId" id="2TOXDkgZKx2TfeMvItQodQzlPdO" />
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
       <profile-state>
@@ -862,16 +948,25 @@
       <pane id="AndroidView" />
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="C:/Program Files/R/R-3.5.1/library/rJava/jri/REngine.jar!/" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="project.structure.last.edited" value="Artifacts" />
-    <property name="project.structure.proportion" value="0.15234375" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "maven-openjfx",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.fishrespbase.components.modalWindows.windows" />
@@ -881,74 +976,7 @@
       <recent name="C:\Users\R7Bishop\Desktop\fishrespbase\resources\com\fishrespbase\css" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.fishrespbase.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.fishrespbase.Main" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="ALTERNATIVE_JRE_PATH" value="C:\Java\jdk1.8.0_111\jre" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="fishrespbase" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-      <method />
-    </configuration>
-    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
-      <module name="" />
-      <option name="DEPLOY" value="true" />
-      <option name="ARTIFACT_NAME" value="" />
-      <option name="PM_INSTALL_OPTIONS" value="" />
-      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
-      <option name="MODE" value="default_activity" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="DEBUGGER_TYPE" value="Java" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <Java />
-      <Profilers>
-        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
-        <option name="GAPID_ENABLED" value="false" />
-        <option name="GAPID_DISABLE_PCS" value="false" />
-        <option name="SUPPORT_LIB_ENABLED" value="true" />
-        <option name="INSTRUMENTATION_ENABLED" value="true" />
-      </Profilers>
-      <option name="DEEP_LINK" value="" />
-      <option name="ACTIVITY_CLASS" value="" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JAR Application.FishRespBase.jar">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -981,21 +1009,6 @@
       <option name="WIDTH" value="0" />
       <option name="HEIGHT" value="0" />
       <module />
-      <method />
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="BashConfigurationType" factoryName="Bash">
@@ -1110,22 +1123,6 @@
       <option name="trusted" value="true" />
       <method />
     </configuration>
-    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list />
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <method />
-    </configuration>
     <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
       <setting name="vmparams" value="" />
       <setting name="cmdLine" value="run-app" />
@@ -1133,48 +1130,6 @@
       <setting name="launchBrowser" value="true" />
       <setting name="launchBrowserUrl" value="" />
       <setting name="depsClasspath" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="JarApplication" factoryName="JAR Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SCRATCH_FILE_ID" value="0" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
@@ -1191,31 +1146,6 @@
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="fishrespbase" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
@@ -1273,14 +1203,6 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-      <method />
-    </configuration>
     <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -1323,34 +1245,6 @@
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
       <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
       <method />
     </configuration>
     <configuration default="true" type="Tox" factoryName="Tox">
@@ -1443,12 +1337,88 @@
       <envs />
       <method />
     </configuration>
-    <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+    <configuration name="Launcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fishrespbase.Launcher" />
+      <module name="fishrespbase" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fishrespbase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../../../../../Program Files/Java/jdk-20" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.fishrespbase.Main" />
+      <module name="fishrespbase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fishrespbase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FishRespBase.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/FishRespBase_jar/FishRespBase.jar" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../../../../../Program Files/Java/jdk-20" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Launcher" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JAR Application.FishRespBase.jar" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      <list>
+        <item itemvalue="JAR Application.FishRespBase.jar" />
+        <item itemvalue="Application.Launcher" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -1457,9 +1427,7 @@
       <projects_view />
     </option>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -1554,21 +1522,23 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="27" />
-    </breakpoint-manager>
-    <watches-manager />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/bin/rJava/jri/JRI.jar!/org/rosuda/JRI/RMainLoopCallbacks.class">
+    <entry file="jar://$PROJECT_DIR$/../../../../../../bin/rJava/jri/JRI.jar!/org/rosuda/JRI/RMainLoopCallbacks.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="14" column="9" lean-forward="false" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
@@ -1587,7 +1557,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/R/R-3.5.1/library/rJava/jri/JRI.jar!/org/rosuda/JRI/Mutex.class">
+    <entry file="jar://$PROJECT_DIR$/../../../../../../Program Files/R/R-3.5.1/library/rJava/jri/JRI.jar!/org/rosuda/JRI/Mutex.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
@@ -1608,21 +1578,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Program Files/R/R-3.5.1/library/rJava/jri/examples/rtest.java">
+    <entry file="file://$PROJECT_DIR$/../../../../../../Program Files/R/R-3.5.1/library/rJava/jri/examples/rtest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Java/jdk1.8.0_65/javafx-src.zip!/com/sun/javafx/application/LauncherImpl.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../../../Java/jdk1.8.0_65/javafx-src.zip!/com/sun/javafx/application/LauncherImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="862" column="0" lean-forward="false" selection-start-line="862" selection-start-column="0" selection-end-line="862" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/R/R-3.5.1/library/rJava/jri/JRI.jar!/org/rosuda/JRI/Rengine.class">
+    <entry file="jar://$PROJECT_DIR$/../../../../../../Program Files/R/R-3.5.1/library/rJava/jri/JRI.jar!/org/rosuda/JRI/Rengine.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="285" column="29" lean-forward="false" selection-start-line="285" selection-start-column="29" selection-end-line="285" selection-end-column="29" />
@@ -1704,7 +1674,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Java/jdk1.8.0_65/src.zip!/java/lang/String.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../../../Java/jdk1.8.0_65/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="9928">
           <caret line="633" column="19" lean-forward="false" selection-start-line="633" selection-start-column="19" selection-end-line="633" selection-end-column="19" />
@@ -1815,7 +1785,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/R/R-3.5.1/library/rJava/jri/JRI.jar!/org/rosuda/JRI/REXP.class">
+    <entry file="jar://$PROJECT_DIR$/../../../../../../Program Files/R/R-3.5.1/library/rJava/jri/JRI.jar!/org/rosuda/JRI/REXP.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
@@ -1861,21 +1831,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Java/jdk1.8.0_65/javafx-src.zip!/javafx/application/Application.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../../../Java/jdk1.8.0_65/javafx-src.zip!/javafx/application/Application.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="298">
           <caret line="222" column="23" lean-forward="false" selection-start-line="222" selection-start-column="23" selection-end-line="222" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Java/jdk1.8.0_65/javafx-src.zip!/javafx/beans/property/ObjectPropertyBase.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../../../Java/jdk1.8.0_65/javafx-src.zip!/javafx/beans/property/ObjectPropertyBase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="222">
           <caret line="131" column="0" lean-forward="false" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Java/jdk1.8.0_65/javafx-src.zip!/javafx/scene/control/Button.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../../../Java/jdk1.8.0_65/javafx-src.zip!/javafx/scene/control/Button.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="186" column="0" lean-forward="false" selection-start-line="186" selection-start-column="0" selection-end-line="186" selection-end-column="0" />
@@ -1883,7 +1853,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Java/jdk1.8.0_65/javafx-src.zip!/javafx/scene/Node.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../../../Java/jdk1.8.0_65/javafx-src.zip!/javafx/scene/Node.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="197">
           <caret line="8413" column="0" lean-forward="false" selection-start-line="8413" selection-start-column="0" selection-end-line="8413" selection-end-column="0" />
@@ -1893,14 +1863,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Java/jdk1.8.0_65/javafx-src.zip!/javafx/scene/Scene.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../../../Java/jdk1.8.0_65/javafx-src.zip!/javafx/scene/Scene.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="205">
           <caret line="622" column="0" lean-forward="false" selection-start-line="622" selection-start-column="0" selection-end-line="622" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Java/jdk1.8.0_65/javafx-src.zip!/javafx/stage/Window.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../../../Java/jdk1.8.0_65/javafx-src.zip!/javafx/stage/Window.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="205">
           <caret line="194" column="0" lean-forward="false" selection-start-line="194" selection-start-column="0" selection-end-line="194" selection-end-column="0" />
@@ -1910,14 +1880,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Java/jdk1.8.0_65/javafx-src.zip!/javafx/scene/Parent.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../../../Java/jdk1.8.0_65/javafx-src.zip!/javafx/scene/Parent.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="197">
           <caret line="507" column="0" lean-forward="false" selection-start-line="507" selection-start-column="0" selection-end-line="507" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Java/jdk1.8.0_65/javafx-src.zip!/javafx/scene/layout/Pane.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../../../Java/jdk1.8.0_65/javafx-src.zip!/javafx/scene/layout/Pane.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="433">
           <caret line="141" column="0" lean-forward="false" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
@@ -1932,7 +1902,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Java/jdk1.8.0_65/javafx-src.zip!/javafx/event/Event.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../../../Java/jdk1.8.0_65/javafx-src.zip!/javafx/event/Event.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="467">
           <caret line="198" column="0" lean-forward="false" selection-start-line="198" selection-start-column="0" selection-end-line="198" selection-end-column="0" />
@@ -1985,7 +1955,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Java/jdk1.8.0_65/javafx-src.zip!/javafx/scene/control/ComboBoxBase.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../../../Java/jdk1.8.0_65/javafx-src.zip!/javafx/scene/control/ComboBoxBase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2023">
           <caret line="150" column="19" lean-forward="false" selection-start-line="150" selection-start-column="19" selection-end-line="150" selection-end-column="19" />
@@ -2038,7 +2008,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Java/jdk1.8.0_65/javafx-src.zip!/javafx/scene/control/ComboBox.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../../../Java/jdk1.8.0_65/javafx-src.zip!/javafx/scene/control/ComboBox.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4063">
           <caret line="286" column="35" lean-forward="false" selection-start-line="286" selection-start-column="35" selection-end-line="286" selection-end-column="35" />
@@ -2071,7 +2041,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Java/jdk1.8.0_65/javafx-src.zip!/javafx/stage/FileChooser.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../../../Java/jdk1.8.0_65/javafx-src.zip!/javafx/stage/FileChooser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="294" column="43" lean-forward="false" selection-start-line="294" selection-start-column="43" selection-end-line="294" selection-end-column="43" />
@@ -2139,7 +2109,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Java/jdk1.8.0_65/src.zip!/java/io/File.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../../../Java/jdk1.8.0_65/src.zip!/java/io/File.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="35445">
           <caret line="2140" column="18" lean-forward="false" selection-start-line="2140" selection-start-column="18" selection-end-line="2140" selection-end-column="18" />

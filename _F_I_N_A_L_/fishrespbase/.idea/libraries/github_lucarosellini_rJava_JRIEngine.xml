@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="github.lucarosellini.rJava.JRIEngine" type="repository">
+    <properties maven-id="com.github.lucarosellini.rJava:JRIEngine:0.9-7" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/lucarosellini/rJava/JRIEngine/0.9-7/JRIEngine-0.9-7.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/lucarosellini/rJava/JRI/0.9-7/JRI-0.9-7.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/lucarosellini/rJava/REngine/0.9-7/REngine-0.9-7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
