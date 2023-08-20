@@ -2,36 +2,42 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="fishrespbase:jar" />
+      <artifact name="FishRespBase:jar" />
     </artifacts-to-build>
   </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d383f193-eb51-41e9-ab06-a30161f52111" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../../.idea/FishResp-GUI.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/github_lucarosellini_rJava_JRI.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/github_lucarosellini_rJava_JRIEngine.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/github_lucarosellini_rJava_REngine.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/openjfx_javafx_controls.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/openjfx_javafx_fxml.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/openjfx_javafx_graphics.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/openjfx_javafx_media.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/openjfx_javafx_web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fishrespbase/Launcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FishRespConfigurator/FishRespConfigurator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../FishRespConfigurator/FishRespConfigurator.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FishRespStarter/FishRespStarter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../FishRespStarter/FishRespStarter.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/FishRespBase_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/FishRespBase_jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/JRI.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/JRIEngine.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/REngine.xml" beforeDir="false" />
+    <list default="true" id="d383f193-eb51-41e9-ab06-a30161f52111" name="Default" comment="Maven OpenJFX">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/openjfx_javafx_base.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/JRI-0.9-7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/JRIEngine-0.9-7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/REngine-0.9-7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-base-11-win.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-base-11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-controls-11-win.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-controls-11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-fxml-11-win.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-fxml-11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-graphics-11-win.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-graphics-11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-media-11-win.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-media-11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-web-11-win.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-web-11.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/github_lucarosellini_rJava_JRI.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/github_lucarosellini_rJava_JRIEngine.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/github_lucarosellini_rJava_REngine.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/openjfx_javafx_controls.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/openjfx_javafx_controls.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/openjfx_javafx_fxml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/openjfx_javafx_fxml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/openjfx_javafx_graphics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/openjfx_javafx_graphics.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/openjfx_javafx_media.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/openjfx_javafx_web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/openjfx_javafx_web.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fishrespbase.iml" beforeDir="false" afterPath="$PROJECT_DIR$/fishrespbase.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/FishRespBase_jar/FishRespBase.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/FishRespBase_jar/FishRespBase.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/META-INF/MANIFEST.MF" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/TextConsole.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/TextConsole.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/components/BaseTab.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/components/BaseTab.class" afterDir="false" />
@@ -83,7 +89,6 @@
       <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/componets/for_trait/CorrectionPane.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/componets/for_trait/CorrectionPane.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/componets/for_trait/QCTestsPane.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/componets/for_trait/QCTestsPane.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/componets/for_trait/RawDataPane.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fishrespbase/com/fishrespbase/tabs/componets/for_trait/RawDataPane.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -525,6 +530,20 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;RE-Kovalev&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="db2c05eb-1142-493f-9790-53ba9de56b01" />
+        <option name="url" value="https://github.com/embedded-sergey/FishResp-GUI.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="GradleLocalSettings">
     <option name="modificationStamps">
       <map>
@@ -622,6 +641,9 @@
         </expanded-state>
       </profile-state>
     </entry>
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -954,7 +976,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "true",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
     "Repository.Attach.Sources": "false",
@@ -962,9 +985,11 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "maven-openjfx",
-    "project.structure.last.edited": "Artifacts",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+    "last_opened_file_path": "C:/Users/Roman/Documents/jfx-jdk-9-178/modules",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15429688",
+    "project.structure.side.proportion": "0.30057803",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -976,7 +1001,7 @@
       <recent name="C:\Users\R7Bishop\Desktop\fishrespbase\resources\com\fishrespbase\css" />
     </key>
   </component>
-  <component name="RunManager" selected="JAR Application.FishRespBase.jar">
+  <component name="RunManager" selected="Application.Launcher">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -1340,7 +1365,6 @@
     <configuration name="Launcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.fishrespbase.Launcher" />
       <module name="fishrespbase" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.fishrespbase.*" />
@@ -1416,8 +1440,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JAR Application.FishRespBase.jar" />
         <item itemvalue="Application.Launcher" />
+        <item itemvalue="JAR Application.FishRespBase.jar" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -1476,6 +1500,15 @@
       <workItem from="1540447654539" duration="3464000" />
       <workItem from="1540451146935" duration="2504000" />
     </task>
+    <task id="LOCAL-00001" summary="Maven OpenJFX">
+      <option name="closed" value="true" />
+      <created>1690916811537</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1690916811537</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -1532,6 +1565,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Maven OpenJFX" />
+    <option name="LAST_COMMIT_MESSAGE" value="Maven OpenJFX" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
