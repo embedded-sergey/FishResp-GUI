@@ -50,9 +50,9 @@ public class Main extends Application {
         primaryStage.getIcons().add(new Image("com/fishrespconfigurator/img/programIcon.png"));
 
         if (OS == "windows")
-            primaryStage.setScene(new Scene(root, 320, 275));
+            primaryStage.setScene(new Scene(root, 340, 275));
         else
-            primaryStage.setScene(new Scene(root, 320, 160));
+            primaryStage.setScene(new Scene(root, 340, 160));
         primaryStage.show();
         primaryStage.setResizable(false);
 
@@ -65,12 +65,12 @@ public class Main extends Application {
        // configure.setBorder(new Border(new BorderStroke(Color.BLACK,
        //         BorderStrokeStyle.SOLID, CornerRadii.EMPTY, BorderWidths.DEFAULT)));
         if (OS == "windows") {
-            configure.setMaxSize(320, 225);
-            configure.setMinSize(320, 225);
+            configure.setMaxSize(325, 225);
+            configure.setMinSize(325, 225);
         }
         else {
-            configure.setMaxSize(320, 110);
-            configure.setMinSize(320, 110);
+            configure.setMaxSize(325, 110);
+            configure.setMinSize(325, 110);
         }
 
         Label r_homeLabel, r_libLabel;
@@ -83,7 +83,7 @@ public class Main extends Application {
         }
 
         r_libLabel = new Label("Please, specify the path to the R_LIBRARY: \n" +
-                "e.g. \"C:\\Users\\USER_NAME\\Documents\\R\\win-library\\3.3\"");
+                "e.g. \"C:\\Users\\USER_NAME\\AppData\\Local\\R\\win-library\\3.3\"\n");
         if (OS == "windows")
             r_libLabel.relocate(5,95);
         else
@@ -93,8 +93,8 @@ public class Main extends Application {
         if (OS == "windows") {
             r_home = new TextField();
             r_home.relocate(5, 45);
-            r_home.setMaxWidth(285);
-            r_home.setMinWidth(285);
+            r_home.setMaxWidth(295);
+            r_home.setMinWidth(295);
             r_home.textProperty().addListener(
                     (observable, oldValue, newValue) -> {
                         if (checkR_HOME())
@@ -109,8 +109,8 @@ public class Main extends Application {
             r_lib.relocate(5,135);
         else
             r_lib.relocate(5,45);
-        r_lib.setMaxWidth(285);
-        r_lib.setMinWidth(285);
+        r_lib.setMaxWidth(295);
+        r_lib.setMinWidth(295);
         r_lib.textProperty().addListener(
             (observable, oldValue, newValue) -> {
                 if (checkR_LIB())
@@ -126,25 +126,28 @@ public class Main extends Application {
         r_homeOpenFileButton = null;
         if (OS == "windows") {
             r_homeOpenFileButton = new Button();
-            r_homeOpenFileButton.relocate(290, 45);
+            r_homeOpenFileButton.relocate(300, 45);
             r_homeOpenFileButton.setPrefSize(25, 25);
             r_homeOpenFileButton.setStyle("-fx-background-image: url('/com/fishrespconfigurator/img/OpenFileIcon.png')");
             r_homeOpenFileButton.setOnAction(
                     (ActionEvent event) -> {
-                        openEvent(primaryStage, r_home);
+                        openEvent(primaryStage, r_home, "");
                     });
         }
 
         r_libOpenFileButton = new Button();
         if (OS == "windows")
-            r_libOpenFileButton.relocate(290, 135);
+            r_libOpenFileButton.relocate(300, 135);
         else
             r_libOpenFileButton.relocate(290, 45);
         r_libOpenFileButton.setPrefSize(25, 25);
         r_libOpenFileButton.setStyle("-fx-background-image: url('/com/fishrespconfigurator/img/OpenFileIcon.png')");
         r_libOpenFileButton.setOnAction(
                 (ActionEvent event) -> {
-                   openEvent(primaryStage, r_lib);
+                    if (OS == "windows")
+                        openEvent(primaryStage, r_lib, System.getenv("APPDATA")+"\\..\\Local\\R\\win-library");
+                    else
+                        openEvent(primaryStage, r_lib, "");
                 });
 
         saveButton = new ColoredButton(false, Constants.OBJECT_GRAY,"Save");
@@ -191,9 +194,9 @@ public class Main extends Application {
 
         installButton = new ColoredButton(false, Constants.OBJECT_GRAY, "Install");
         if (OS == "windows")
-            installButton.relocate(180,215);
+            installButton.relocate(190,215);
         else
-            installButton.relocate(180,80);
+            installButton.relocate(190,80);
         installButton.setMaxWidth(100);
         installButton.setMinWidth(100);
 
@@ -461,8 +464,14 @@ public class Main extends Application {
         return false;
     }
 
-    private void openEvent(Stage primaryStage, TextField addressField) {
-        directoryChooser.setTitle("Select Pre Data");
+    private void openEvent(Stage primaryStage, TextField addressField, String folder) {
+        directoryChooser.setTitle("Select folder");
+        if (!folder.isEmpty()) {
+            File f_folder = new File(folder);
+            if (f_folder.exists())
+                directoryChooser.setInitialDirectory(f_folder);
+        }
+
         File selectedFile = directoryChooser.showDialog(primaryStage);
         if (selectedFile != null) {
             addressField.setText(selectedFile.getPath());
