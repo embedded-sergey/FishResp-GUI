@@ -7,86 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4c4d66b-f160-4349-92ad-03e110c1b646" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../fishrespbase/.idea/libraries/openjfx_javafx_base.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fishrespbase/lib/JRI-0.9-7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fishrespbase/lib/JRIEngine-0.9-7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fishrespbase/lib/REngine-0.9-7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fishrespbase/lib/javafx-base-11-win.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fishrespbase/lib/javafx-base-11.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fishrespbase/lib/javafx-controls-11-win.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fishrespbase/lib/javafx-controls-11.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fishrespbase/lib/javafx-fxml-11-win.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fishrespbase/lib/javafx-fxml-11.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fishrespbase/lib/javafx-graphics-11-win.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fishrespbase/lib/javafx-graphics-11.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fishrespbase/lib/javafx-media-11-win.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fishrespbase/lib/javafx-media-11.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fishrespbase/lib/javafx-web-11-win.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fishrespbase/lib/javafx-web-11.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/.idea/libraries/github_lucarosellini_rJava_JRI.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/.idea/libraries/github_lucarosellini_rJava_JRI.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/.idea/libraries/github_lucarosellini_rJava_JRIEngine.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/.idea/libraries/github_lucarosellini_rJava_JRIEngine.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/.idea/libraries/github_lucarosellini_rJava_REngine.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/.idea/libraries/github_lucarosellini_rJava_REngine.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/.idea/libraries/openjfx_javafx_controls.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/.idea/libraries/openjfx_javafx_controls.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/.idea/libraries/openjfx_javafx_fxml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/.idea/libraries/openjfx_javafx_fxml.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/.idea/libraries/openjfx_javafx_graphics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/.idea/libraries/openjfx_javafx_graphics.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/.idea/libraries/openjfx_javafx_media.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/.idea/libraries/openjfx_javafx_web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/.idea/libraries/openjfx_javafx_web.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../fishrespbase/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/fishrespbase.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/fishrespbase.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/out/artifacts/FishRespBase_jar/FishRespBase.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/out/artifacts/FishRespBase_jar/FishRespBase.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/TextConsole.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/TextConsole.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/components/BaseTab.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/components/BaseTab.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/components/BaseTitledPane.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/components/BaseTitledPane.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/components/ColoredButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/components/ColoredButton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/components/Constants.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/components/Constants.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/components/DPIkiller.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/components/DPIkiller.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/components/RLogger.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/components/RLogger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/components/Saver.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/components/Saver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/components/TextInputCheckers.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/components/TextInputCheckers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/components/alerts/AlertAccordion.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/components/alerts/AlertAccordion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/components/alerts/AlertType.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/components/alerts/AlertType.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/components/alerts/SingleAlert$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/components/alerts/SingleAlert$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/components/alerts/SingleAlert.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/components/alerts/SingleAlert.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/components/modalWindows/ModalWindowManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/components/modalWindows/ModalWindowManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/components/modalWindows/windows/CleanWindowQC.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/components/modalWindows/windows/CleanWindowQC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/components/modalWindows/windows/PreSens$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/components/modalWindows/windows/PreSens$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/components/modalWindows/windows/PreSens.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/components/modalWindows/windows/PreSens.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/components/modalWindows/windows/PyroScience$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/components/modalWindows/windows/PyroScience$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/components/modalWindows/windows/PyroScience.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/components/modalWindows/windows/PyroScience.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/components/modalWindows/windows/RMRWindow$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/components/modalWindows/windows/RMRWindow$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/components/modalWindows/windows/RMRWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/components/modalWindows/windows/RMRWindow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/components/modalWindows/windows/RespirometryWindow$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/components/modalWindows/windows/RespirometryWindow$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/components/modalWindows/windows/RespirometryWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/components/modalWindows/windows/RespirometryWindow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/tabs/BGR.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/tabs/BGR.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/tabs/General.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/tabs/General.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/tabs/Results.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/tabs/Results.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/tabs/Traits.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/tabs/Traits.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/tabs/componets/CleanAllPane.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/tabs/componets/CleanAllPane.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/tabs/componets/GraphModule$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/tabs/componets/GraphModule$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/tabs/componets/GraphModule$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/tabs/componets/GraphModule$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/tabs/componets/GraphModule$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/tabs/componets/GraphModule$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/tabs/componets/GraphModule$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/tabs/componets/GraphModule$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/tabs/componets/GraphModule$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/tabs/componets/GraphModule$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/tabs/componets/GraphModule$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/tabs/componets/GraphModule$6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/tabs/componets/GraphModule$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/tabs/componets/GraphModule$7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/tabs/componets/GraphModule$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/tabs/componets/GraphModule$8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/tabs/componets/GraphModule$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/tabs/componets/GraphModule$9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/tabs/componets/GraphModule.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/tabs/componets/GraphModule.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/tabs/componets/for_bgr/DataPane.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/tabs/componets/for_bgr/DataPane.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/tabs/componets/for_general/ExtensionPane.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/tabs/componets/for_general/ExtensionPane.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/tabs/componets/for_general/GlobalSettingsPane.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/tabs/componets/for_general/GlobalSettingsPane.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/tabs/componets/for_general/IndividualInfoPane.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/tabs/componets/for_general/IndividualInfoPane.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/tabs/componets/for_general/InformationModulePane$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/tabs/componets/for_general/InformationModulePane$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/tabs/componets/for_general/InformationModulePane.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/tabs/componets/for_general/InformationModulePane.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/tabs/componets/for_results/ExtractSlopesPane.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/tabs/componets/for_results/ExtractSlopesPane.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/tabs/componets/for_results/QCofSlopesPane.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/tabs/componets/for_results/QCofSlopesPane.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/tabs/componets/for_results/ResultsOfAnalysisPane.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/tabs/componets/for_results/ResultsOfAnalysisPane.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/tabs/componets/for_trait/CorrectionPane.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/tabs/componets/for_trait/CorrectionPane.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/tabs/componets/for_trait/QCTestsPane.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/tabs/componets/for_trait/QCTestsPane.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/tabs/componets/for_trait/RawDataPane.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/out/production/fishrespbase/com/fishrespbase/tabs/componets/for_trait/RawDataPane.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,9 +83,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
@@ -215,6 +137,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "maven-openjfx",
+    "last_opened_file_path": "C:/Users/Roman/IdeaProjects/FishResp-GUI/_F_I_N_A_L_/FishRespConfigurator",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
@@ -537,9 +460,6 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
