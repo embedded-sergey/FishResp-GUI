@@ -12,13 +12,12 @@
     <orderEntry type="library" name="Sources" level="project" />
     <orderEntry type="library" name="FishRespBase" level="project" />
     <orderEntry type="library" name="MacOS" level="project" />
-    <orderEntry type="library" name="openjfx.javafx.base" level="project" />
-    <orderEntry type="library" name="openjfx.javafx.controls" level="project" />
-    <orderEntry type="library" name="openjfx.javafx.fxml" level="project" />
-    <orderEntry type="library" name="openjfx.javafx.graphics" level="project" />
-    <orderEntry type="library" name="openjfx.javafx.web" level="project" />
     <orderEntry type="library" name="github.lucarosellini.rJava.REngine" level="project" />
     <orderEntry type="library" name="github.lucarosellini.rJava.JRIEngine" level="project" />
     <orderEntry type="library" name="github.lucarosellini.rJava.JRI" level="project" />
+    <orderEntry type="library" name="openjfx.javafx.controls" level="project" />
+    <orderEntry type="library" name="openjfx.javafx.fxml" level="project" />
+    <orderEntry type="library" name="openjfx.javafx.web" level="project" />
+    <orderEntry type="library" name="javafx-base-11-win" level="project" />
   </component>
 </module>
