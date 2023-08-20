@@ -9,34 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d383f193-eb51-41e9-ab06-a30161f52111" name="Default" comment="Maven OpenJFX">
-      <change afterPath="$PROJECT_DIR$/../FishRespConfigurator/.idea/libraries/openjfx_javafx_base.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FishRespConfigurator/.idea/libraries/openjfx_javafx_fxml.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FishRespConfigurator/.idea/libraries/openjfx_javafx_graphics.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FishRespConfigurator/lib/javafx-base-11-win.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FishRespConfigurator/lib/javafx-base-11.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FishRespConfigurator/lib/javafx-controls-11-win.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FishRespConfigurator/lib/javafx-controls-11.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FishRespConfigurator/lib/javafx-fxml-11-win.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FishRespConfigurator/lib/javafx-fxml-11.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FishRespConfigurator/lib/javafx-graphics-11-win.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FishRespConfigurator/lib/javafx-graphics-11.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FishRespConfigurator/src/com/fishrespconfigurator/Launcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FishRespConfigurator/.idea/artifacts/FishRespConfigurator_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FishRespConfigurator/.idea/artifacts/FishRespConfigurator_jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FishRespConfigurator/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FishRespConfigurator/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FishRespConfigurator/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FishRespConfigurator/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FishRespConfigurator/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FishRespConfigurator/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FishRespConfigurator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FishRespConfigurator/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FishRespConfigurator/FishRespConfigurator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../FishRespConfigurator/FishRespConfigurator.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FishRespConfigurator/out/artifacts/FishRespConfigurator_jar/FishRespConfigurator.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../FishRespConfigurator/out/artifacts/FishRespConfigurator_jar/FishRespConfigurator.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FishRespConfigurator/out/production/FishRespConfigurator/com/fishrespconfigurator/ColoredButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/../FishRespConfigurator/out/production/FishRespConfigurator/com/fishrespconfigurator/ColoredButton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FishRespConfigurator/out/production/FishRespConfigurator/com/fishrespconfigurator/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../FishRespConfigurator/out/production/FishRespConfigurator/com/fishrespconfigurator/Main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FishRespConfigurator/out/production/FishRespConfigurator/com/fishrespconfigurator/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../FishRespConfigurator/out/production/FishRespConfigurator/com/fishrespconfigurator/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FishRespStarter/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FishRespStarter/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FishRespStarter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FishRespStarter/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d383f193-eb51-41e9-ab06-a30161f52111" name="Default" comment="Maven OpenJFX" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
