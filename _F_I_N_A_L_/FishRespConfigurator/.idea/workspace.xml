@@ -10,12 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../!Windows Builder/Sources/launch4j.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FishRespConfigurator/com/fishrespconfigurator/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FishRespConfigurator/com/fishrespconfigurator/Main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FishRespConfigurator/com/fishrespconfigurator/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FishRespConfigurator/com/fishrespconfigurator/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fishrespconfigurator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fishrespconfigurator/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishrespbase/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fishrespbase/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,9 +172,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="width" value="1932" />
@@ -225,8 +220,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "maven-openjfx",
-    "last_opened_file_path": "C:/Users/Roman/IdeaProjects/FishResp-GUI/_F_I_N_A_L_/fishrespbase/lib/REngine-0.9-7.jar",
-    "project.structure.last.edited": "Artifacts",
+    "last_opened_file_path": "C:/Users/Roman/IdeaProjects/FishResp-GUI/_F_I_N_A_L_/fishrespbase",
+    "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15429688",
     "project.structure.side.proportion": "0.30057803"
   }
