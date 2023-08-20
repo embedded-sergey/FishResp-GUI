@@ -2,7 +2,7 @@
 ; SEE THE DOCUMENTATION FOR DETAILS ON CREATING INNO SETUP SCRIPT FILES!
 
 #define MyAppName "FishResp"
-#define MyAppVersion "1.0"
+#define MyAppVersion "1.0.1"
 #define MyAppPublisher "Sergey Morozov"
 #define MyAppURL "https://www.fishresp.org/"
 #define MyAppExeName "FishResp.exe"
@@ -21,11 +21,11 @@ AppSupportURL={#MyAppURL}
 AppUpdatesURL={#MyAppURL}
 DefaultDirName=C:\Program Files\{#MyAppName}
 DefaultGroupName={#MyAppName}
-LicenseFile=C:\Users\Artur\Desktop\_F_I_N_A_L_\!Windows Builder\License.txt
-InfoBeforeFile=C:\Users\Artur\Desktop\_F_I_N_A_L_\!Windows Builder\before.txt
-OutputDir=C:\Users\Artur\Desktop\_F_I_N_A_L_\!Windows Builder\”—“¿ÕŒ¬Ÿ» 
+LicenseFile=C:\Users\Roman\IdeaProjects\FishResp-GUI\_F_I_N_A_L_\!Windows Builder\License.txt
+InfoBeforeFile=C:\Users\Roman\IdeaProjects\FishResp-GUI\_F_I_N_A_L_\!Windows Builder\before.txt
+OutputDir=C:\Users\Roman\IdeaProjects\FishResp-GUI\_F_I_N_A_L_\!Windows Builder\”—“¿ÕŒ¬Ÿ» 
 OutputBaseFilename=FishRespSetup
-SetupIconFile=C:\Users\Artur\Desktop\_F_I_N_A_L_\programIcon.ico
+SetupIconFile=C:\Users\Roman\IdeaProjects\FishResp-GUI\_F_I_N_A_L_\programIcon.ico
 Compression=lzma
 SolidCompression=yes
 
@@ -36,17 +36,17 @@ Name: "english"; MessagesFile: "compiler:Default.isl"
 Name: "desktopicon"; Description: "{cm:CreateDesktopIcon}"; GroupDescription: "{cm:AdditionalIcons}"; Flags: unchecked
 
 [Files]
-Source: "C:\Users\Artur\Desktop\_F_I_N_A_L_\!Windows Builder\Sources\FishResp.exe"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\Artur\Desktop\_F_I_N_A_L_\!Windows Builder\Sources\FishRespStarter.jar"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\Artur\Desktop\_F_I_N_A_L_\!Windows Builder\Sources\FishRespBase.jar"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\Artur\Desktop\_F_I_N_A_L_\!Windows Builder\Sources\FishRespConfigurator.jar"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\Artur\Desktop\_F_I_N_A_L_\!Windows Builder\Sources\respirometry.html"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\Artur\Desktop\_F_I_N_A_L_\!Windows Builder\Sources\rMR.html"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\Artur\Desktop\_F_I_N_A_L_\!Windows Builder\Sources\tutorial.html"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\Artur\Desktop\_F_I_N_A_L_\!Windows Builder\Sources\presens.html"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\Artur\Desktop\_F_I_N_A_L_\!Windows Builder\Sources\pyroscience.html"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\Artur\Desktop\_F_I_N_A_L_\!Windows Builder\Sources\R\*"; DestDir: "{app}\R"; Flags: ignoreversion recursesubdirs createallsubdirs
-Source: "C:\Users\Artur\Desktop\_F_I_N_A_L_\!Windows Builder\Sources\img\*"; DestDir: "{app}\img"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "C:\Users\Roman\IdeaProjects\FishResp-GUI\_F_I_N_A_L_\!Windows Builder\Sources\FishResp.exe"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Users\Roman\IdeaProjects\FishResp-GUI\_F_I_N_A_L_\!Windows Builder\Sources\FishRespStarter.jar"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Users\Roman\IdeaProjects\FishResp-GUI\_F_I_N_A_L_\!Windows Builder\Sources\FishRespBase.jar"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Users\Roman\IdeaProjects\FishResp-GUI\_F_I_N_A_L_\!Windows Builder\Sources\FishRespConfigurator.jar"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Users\Roman\IdeaProjects\FishResp-GUI\_F_I_N_A_L_\!Windows Builder\Sources\respirometry.html"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Users\Roman\IdeaProjects\FishResp-GUI\_F_I_N_A_L_\!Windows Builder\Sources\rMR.html"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Users\Roman\IdeaProjects\FishResp-GUI\_F_I_N_A_L_\!Windows Builder\Sources\tutorial.html"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Users\Roman\IdeaProjects\FishResp-GUI\_F_I_N_A_L_\!Windows Builder\Sources\presens.html"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Users\Roman\IdeaProjects\FishResp-GUI\_F_I_N_A_L_\!Windows Builder\Sources\pyroscience.html"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Users\Roman\IdeaProjects\FishResp-GUI\_F_I_N_A_L_\!Windows Builder\Sources\R\*"; DestDir: "{app}\R"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "C:\Users\Roman\IdeaProjects\FishResp-GUI\_F_I_N_A_L_\!Windows Builder\Sources\img\*"; DestDir: "{app}\img"; Flags: ignoreversion recursesubdirs createallsubdirs
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
 
 [Icons]
