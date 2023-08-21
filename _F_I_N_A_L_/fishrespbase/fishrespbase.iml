@@ -8,16 +8,9 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="FishRespBase1" level="project" />
-    <orderEntry type="library" name="Sources" level="project" />
-    <orderEntry type="library" name="FishRespBase" level="project" />
-    <orderEntry type="library" name="MacOS" level="project" />
     <orderEntry type="library" name="github.lucarosellini.rJava.REngine" level="project" />
     <orderEntry type="library" name="github.lucarosellini.rJava.JRIEngine" level="project" />
     <orderEntry type="library" name="github.lucarosellini.rJava.JRI" level="project" />
-    <orderEntry type="library" name="openjfx.javafx.controls" level="project" />
-    <orderEntry type="library" name="openjfx.javafx.fxml" level="project" />
-    <orderEntry type="library" name="openjfx.javafx.web" level="project" />
-    <orderEntry type="library" name="javafx-base-11-win" level="project" />
+    <orderEntry type="library" name="javafx-11" level="project" />
   </component>
 </module>

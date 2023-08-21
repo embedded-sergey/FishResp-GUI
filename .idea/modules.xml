@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/FishResp-GUI.iml" filepath="$PROJECT_DIR$/.idea/FishResp-GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_F_I_N_A_L_/FishRespConfigurator/FishRespConfigurator.iml" filepath="$PROJECT_DIR$/_F_I_N_A_L_/FishRespConfigurator/FishRespConfigurator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_F_I_N_A_L_/FishRespStarter/FishRespStarter.iml" filepath="$PROJECT_DIR$/_F_I_N_A_L_/FishRespStarter/FishRespStarter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_F_I_N_A_L_/fishrespbase/fishrespbase.iml" filepath="$PROJECT_DIR$/_F_I_N_A_L_/fishrespbase/fishrespbase.iml" />
+    </modules>
+  </component>
+</project>

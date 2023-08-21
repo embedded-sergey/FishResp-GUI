@@ -637,11 +637,11 @@ public class Main extends Application {
             }
             else
                 System.out.println("can't create stream");*/
-
-            if (System.getenv("PDIR") == null) {
-                System.out.println("Here is no filepath for macOS");
-                System.exit(1);
-            }
+//
+//            if (System.getenv("PDIR") == null) {
+//                System.out.println("Here is no filepath for macOS");
+//                System.exit(1);
+//            }
         }
 
         launch(args);

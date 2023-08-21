@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Sources">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/_F_I_N_A_L_/!Windows Builder/Sources/FishRespConfigurator.jar!/" />
+      <root url="jar://$PROJECT_DIR$/_F_I_N_A_L_/!Windows Builder/Sources/FishRespBase.jar!/" />
+      <root url="jar://$PROJECT_DIR$/_F_I_N_A_L_/!Windows Builder/Sources/FishRespStarter.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

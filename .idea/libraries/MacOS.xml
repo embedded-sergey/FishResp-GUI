@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="MacOS">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/_F_I_N_A_L_/!Mac Builder/BUILD/FishResp.app/Contents/MacOS/FishRespStarter.jar!/" />
+      <root url="jar://$PROJECT_DIR$/_F_I_N_A_L_/!Mac Builder/BUILD/FishResp.app/Contents/MacOS/FishRespBase.jar!/" />
+      <root url="jar://$PROJECT_DIR$/_F_I_N_A_L_/!Mac Builder/BUILD/FishResp.app/Contents/MacOS/FishRespConfigurator.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
