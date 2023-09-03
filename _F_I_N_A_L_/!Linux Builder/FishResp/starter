@@ -1,4 +1,4 @@
 #!/bin/sh
 export R_HOME=/usr/lib/R
 cd /usr/lib/FishResp/
-java -jar FishRespBase.jar
+java -Djdk.gtk.version=2 -Xss2560k -jar FishRespBase.jar
